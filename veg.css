@@ -1,0 +1,68 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.head a{
+    text-decoration: none;
+    color: black;
+    font-size: 19px;
+    text-transform: uppercase;
+    font-family: bold Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    
+    
+}
+.head a:hover{
+    color: palevioletred;
+    background-color: white;
+    border-radius: 0.9em;
+    padding: 10px;
+    
+}
+.seed {
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+     
+}
+.seed a{
+    
+    color: brown;
+    text-decoration: none;
+    
+     
+}
+
+.sec {
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+     
+}
+.sec a{
+    
+    color: brown;
+    text-decoration: none;
+    
+     
+}
+.th {
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+     
+}
+.th a{
+    
+    color: brown;
+    text-decoration: none;
+    
+     
+}
